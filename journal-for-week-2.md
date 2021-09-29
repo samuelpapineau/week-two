@@ -27,7 +27,7 @@ On google earth, I discovered a cemetery in Chelsea named the Old Chelsea Protes
  
  Upon arriving, I saw that at the entrance, there was a large sign decribing the history of the cemetery, and there were also booklets filled with information and quizzes on the people buried there. It was like archaeological christmas. I also got very lucky, because inside this small booklet, there was a map of the entire cemetery, with names and numbered graves. 
  
-![[20210928_185615.jpg]]
+![Difficult image 2](20210928_185615.jpg)
 *This map is upside down compared to mine, but I think I did a pretty good job with what I had!*
  
  

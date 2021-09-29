@@ -12,7 +12,7 @@ As I started looking for cemeteries, I knew I wanted to find some older graves. 
 
 On google earth, I discovered a cemetery in Chelsea named the Old Chelsea Protestant Cemetery. It was an older cemetery which had gone out of use, and the owner had sold the land to Gatineau Park. This cemetery was now a protected historical site, and seemed to be everything I was looking for, so I pulled up the satellite image...
 
-![difficult image](images/Pasted_image_20210928183952.png)
+![difficult image](Pasted%20image%2020210928183952.png)
 
 <br><br>
  *Uh oh, this won't be easy...*
@@ -21,13 +21,13 @@ On google earth, I discovered a cemetery in Chelsea named the Old Chelsea Protes
  After probably too much time trying to perfect the map, I came up with this:
  <br>
  
- ![[Pasted image 20210928184153.png]]
+ ![Difficult image 2](Pasted%20image%2020210928184153.png)
  
  This map is almost definitely inaccurate, and I very much wanted to head out to the cemetery to see what I missed. Well, it rained on Thursday, Friday, and I had work on Saturday, so Sunday it was! 
  
  Upon arriving, I saw that at the entrance, there was a large sign decribing the history of the cemetery, and there were also booklets filled with information and quizzes on the people buried there. It was like archaeological christmas. I also got very lucky, because inside this small booklet, there was a map of the entire cemetery, with names and numbered graves. 
  
-![Difficult image 2](20210928_185615.jpg)
+![Difficult image 3](20210928_185615.jpg)
 *This map is upside down compared to mine, but I think I did a pretty good job with what I had!*
  
  
@@ -35,12 +35,12 @@ On google earth, I discovered a cemetery in Chelsea named the Old Chelsea Protes
  
  I then followed a trail leading down a hill, and I was curious to see if the cemetery continued 
  
- ![[20210926_161331.jpg]]
+ ![Difficult image 4](20210926_161331.jpg)
 *A path beside the stream, going up to the cemetery*
  <br>
  At the base of this hill was a beautiful stream making its way through the forest canopy. The immense beauty of this place, especially since it is tucked away behind a couple of restaurants and a cemetery, shocked me. 
  
- ![[20210926_161257.jpg]]
+ ![Difficult image 5](20210926_161257.jpg)
 *A peaceful stream down a hill from the cemetery, who wouldn't want to be buried here?*
 <br>
  It suddenly made sense to me why someone would want to be buried there. Heck, I wouldn't mind being buried there. The location itself is quiet and peaceful, and had a strong sense of natural beauty. Even back up the hill, on the ground around the stones, grew mosses, wild strawberries, lilies, cedars, and wild grasses. 
@@ -51,7 +51,7 @@ On google earth, I discovered a cemetery in Chelsea named the Old Chelsea Protes
  
  After spending several hours recording the graves, I then worked on taking the photos for the photogrammetry portion in Week 3. Because the gravestones were so close together, I decided to take pictures of the stones as a group, as an experiment. Unfortunately, the column at the center of the plot is much taller than me, so I'll probably run into issues when looking at the model from above. 
  
- ![[Pasted image 20210929113001.png]]
+ ![Difficult image 6](Pasted%20image%2020210929113001.png)
  *Photo of the Sully plot, facing South-West.*
 
 

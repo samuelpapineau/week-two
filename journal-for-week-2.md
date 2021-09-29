@@ -12,7 +12,7 @@ As I started looking for cemeteries, I knew I wanted to find some older graves. 
 
 On google earth, I discovered a cemetery in Chelsea named the Old Chelsea Protestant Cemetery. It was an older cemetery which had gone out of use, and the owner had sold the land to Gatineau Park. This cemetery was now a protected historical site, and seemed to be everything I was looking for, so I pulled up the satellite image...
 
-![difficult image](Pasted image 20210928183952.png)
+![difficult image](images/Pasted image 20210928183952.png)
 
 <br><br>
  *Uh oh, this won't be easy...*
